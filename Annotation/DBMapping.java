@@ -10,6 +10,6 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Target({ TYPE, FIELD })
 public @interface DBMapping {
-	String type(); //类型是表名还是字段名
-	String value();
+	String type(); //脌脿脨脥脢脟卤铆脙没禄鹿脢脟脳脰露脦脙没
+	String value(); 
 }
