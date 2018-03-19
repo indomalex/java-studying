@@ -1,5 +1,5 @@
 package com.sunsea.anno;
-//OKOK
+//OKOKOK
 public interface DAOInterface {  
 	
 }
